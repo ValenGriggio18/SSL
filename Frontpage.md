@@ -1,4 +1,4 @@
-# REPOSITORIO PERSONAL #---
+# REPOSITORIO PERSONAL # ---
 
 **Este es un repositorio personal asociado a mi cuenta de Github, cuya única finalidad es la presentacion del primer trabajo práctica de la materia**
 
